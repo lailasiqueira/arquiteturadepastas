@@ -1,11 +1,12 @@
 # Arquitetura de Pastas
 <br>
-Propostas de como organizar pastas do computador, considerando as atividades das pessoas que trabalham e pesquisam as áreas das humanidades.
+Propostas de como melhorar a sua relação com o computador e a tecnologia, considerando as atividades das pessoas que estudam, trabalham e pesquisam as áreas das humanidades.
 <br>
 <br>
-Aqui você encontrará dicas de como organizar sua vida nos estudos e nas pesquisas através do uso do Linux. 
-No momento estou utilizando Elementary Os (https://elementary.io/pt_BR/) e as aplicações e as seguintes aplicações:
+A distro utilizada será a Elementary Os (https://elementary.io/pt_BR/) as seguintes aplicações:
 <br>
 <br>
-1) Obsidian
-2) Minder
+1) Vgriver
+2) Obsidian
+3) Minder
+4) Google drive
